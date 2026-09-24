@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "price": 59.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+      "description": "Comfortable wireless headphones with clear sound and long battery life.",
+      "stock": 25
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch",
+      "price": 89.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+      "description": "A stylish smartwatch for tracking fitness, notifications, and daily activities.",
+      "stock": 18
+    },
+    {
+      "id": "3",
+      "name": "Running Shoes",
+      "price": 74.99,
+      "category": "Footwear",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+      "description": "Lightweight running shoes designed for comfort and everyday workouts.",
+      "stock": 32
+    },
+    {
+      "id": "4",
+      "name": "Leather Backpack",
+      "price": 49.99,
+      "category": "Bags",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+      "description": "Durable backpack with a clean design and enough space for daily essentials.",
+      "stock": 15
+    },
+    {
+      "id": "5",
+      "name": "Mechanical Keyboard",
+      "price": 69.99,
+      "category": "Computer",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+      "description": "Responsive mechanical keyboard with comfortable keys for work and gaming.",
+      "stock": 20
+    },
+    {
+      "id": "6",
+      "name": "Coffee Maker",
+      "price": 99.99,
+      "category": "Home",
+      "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6",
+      "description": "Easy-to-use coffee maker for preparing fresh coffee at home.",
+      "stock": 12
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "price": 14.99,
+      "category": "Thriller",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f",
+      "description": "A psychological thriller about a famous painter who suddenly stops speaking.",
+      "stock": 20
+    },
+    {
+      "id": "2",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 18.99,
+      "category": "Self Development",
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e",
+      "description": "A practical guide to building good habits and making small improvements every day.",
+      "stock": 30
+    },
+    {
+      "id": "3",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 12.99,
+      "category": "Fiction",
+      "image": "https://images.unsplash.com/photo-1511108690759-009324a90311",
+      "description": "A young shepherd travels in search of a treasure and discovers the meaning of his journey.",
+      "stock": 25
+    },
+    {
+      "id": "4",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "price": 39.99,
+      "category": "Programming",
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+      "description": "A guide to writing readable, maintainable, and professional software code.",
+      "stock": 15
+    },
+    {
+      "id": "5",
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert T. Kiyosaki",
+      "price": 16.99,
+      "category": "Finance",
+      "image": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d",
+      "description": "A popular book about financial education, money management, and investing principles.",
+      "stock": 22
+    },
+    {
+      "id": "6",
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas",
+      "price": 34.99,
+      "category": "Programming",
+      "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353",
+      "description": "A practical guide to becoming a better and more effective software developer.",
+      "stock": 18
+    }
+  ]
+}
